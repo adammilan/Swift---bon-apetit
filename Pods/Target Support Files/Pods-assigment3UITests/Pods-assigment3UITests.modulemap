@@ -1,0 +1,6 @@
+framework module Pods_assigment3UITests {
+  umbrella header "Pods-assigment3UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
